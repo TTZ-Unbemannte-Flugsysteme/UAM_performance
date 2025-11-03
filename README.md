@@ -1,5 +1,5 @@
 # Main Branch is for DroneManager
-# Master Branch is for Frontend Web_Client-UI
+# Master Branch is for Frontend WebClient-UI Development
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # DroneControl
